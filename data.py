@@ -15,21 +15,26 @@ def getHex(cell):
 
 def getCodes(row):
     hexes = set([getHex(cell) for cell in row if cell.value is not None])
-    # return hexes
-    codes = []
+    comp, ops, others = [], [], []
     for hx in hexes:
         if hx == '00000000':
-            codes.extend(
+            comp.extend(
                 [[codeMap[cell.value]] for cell in row if getHex(
                     cell) == '00000000' and isinstance(cell.value, float)])
         else:
-            codes.append(
-                [codeMap[cell.value] for cell in row if getHex(
-                    cell) == hx and isinstance(cell.value, float)])
-    codes.sort()
+            subs = [codeMap[cell.value] for cell in row if getHex(
+                cell) == hx and isinstance(cell.value, float)]
+            if len(subs) > 1:
+                ops.append(subs)
+            else:
+                others.append(subs)
     return {
-        f'{i}': codes[i]
-        for i in range(len(codes))
+        'compulsory': comp,
+        'optional': {
+            f'subject {i+1}': ops[i]
+            for i in range(len(ops))
+        },
+        'others': others
     }
 
 
@@ -38,4 +43,6 @@ def getData():
 
     for row in range(2, 665):
         data[jamb[f'N{row}'].value] = getCodes(jamb[row])
-    return data
+    return {
+        'results': data
+    }
