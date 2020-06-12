@@ -19,7 +19,7 @@ def getCodes(row):
     for hx in hexes:
         if hx == '00000000':
             comp.extend(
-                [[codeMap[cell.value]] for cell in row if getHex(
+                [codeMap[cell.value] for cell in row if getHex(
                     cell) == '00000000' and isinstance(cell.value, float)])
         else:
             subs = [codeMap[cell.value] for cell in row if getHex(
