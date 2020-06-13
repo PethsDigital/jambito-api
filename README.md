@@ -38,8 +38,8 @@ $ python app.py
 #### 5. Endpoints
 
 * Visiting the '/' endpoint returns all the courses and their required subjects
-* Visiting the '/course/<searchItem>' endpoint, where searchItem is a the name of a course or its substring, returns all the courses containing that search item
-* Visiting the '/subject/<searchItem>' endpoint returns all the courses that require that particular subject which is parsed into the url
+* Visiting the '/course/{searchItem}' endpoint, where searchItem is a the name of a course or its substring, returns all the courses containing that search item
+* Visiting the '/subject/{searchItem}' endpoint returns all the courses that require that particular subject which is parsed into the url
 
 
 
