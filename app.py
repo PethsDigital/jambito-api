@@ -53,7 +53,6 @@ class SeearchBySubject(Resource):
 
     def get(self, search):
         data = searchBySubject(search)
-        print(data)
         return data
 
 
