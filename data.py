@@ -6,18 +6,22 @@ wb = load_workbook(excel_file, data_only=True)
 sh = wb.get_sheet_names()
 jamb, olevel = wb[sh[1]], wb[sh[0]]
 
-codeMap = {olevel[f'B{i}'].value: olevel[f'A{i}'].value for i in range(2, 28)}
-
 
 def getHex(cell):
     return cell.fill.start_color.index
+
+
+for i in range(1, 665):
+    print(getHex(jamb[f'A{i}']))
+
+codeMap = {olevel[f'B{i}'].value: olevel[f'A{i}'].value for i in range(2, 28)}
 
 
 def getCodes(row):
     hexes = set([getHex(cell) for cell in row if cell.value is not None])
     comp, ops, others = [], [], []
     for hx in hexes:
-        if hx == '00000000':
+        if hx == '00000000' or hx == 'FFFFFFFF':
             comp.extend(
                 [codeMap[cell.value] for cell in row if getHex(
                     cell) == '00000000' and isinstance(cell.value, float)])
