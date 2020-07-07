@@ -4,18 +4,30 @@ from openpyxl import load_workbook
 
 excel_file = 'jambito.xlsx'
 workbook = load_workbook(excel_file, data_only=True)
-worksheets = workbook.get_sheet_names()
-jamb, olevel = workbook[worksheets[1]], workbook[worksheets[0]]
+olevel, uniCodes, jamb = list(workbook)
+
+universities = {
+    uniCodes[f'B{code}'].value: uniCodes[f'A{code}'].value
+    for code in range(2, 166)
+}
+
+print(universities)
+
+codeMap = {
+    olevel[f'B{i}'].value: olevel[f'A{i}'].value
+    for i in range(2, 28)
+}
 
 
 def getHex(cell):
     return cell.fill.start_color.index
 
 
-codeMap = {olevel[f'B{i}'].value: olevel[f'A{i}'].value for i in range(2, 28)}
-
-
 def getSubjects(row):
+    schoolInfo = [universities[cell.value]
+                  for cell in row[15:] if cell.value is not None and
+                  cell.value != 'N/A']
+    row = row[:14]
     hexes = set([getHex(cell) for cell in row if cell.value is not None])
     comp, ops, others = [], [], []
     for hx in hexes:
@@ -36,14 +48,15 @@ def getSubjects(row):
             f'subject {i+1}': ops[i]
             for i in range(len(ops))
         },
-        'others': others
+        'others': others,
+        'schools': schoolInfo
     }
 
 
 def getData():
     data = {}
 
-    for row in range(2, 665):
+    for row in range(2, 663):
         data[jamb[f'O{row}'].value] = getSubjects(jamb[row])
     return {
         'results': data
