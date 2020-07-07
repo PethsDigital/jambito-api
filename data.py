@@ -11,7 +11,6 @@ universities = {
     for code in range(2, 166)
 }
 
-print(universities)
 
 codeMap = {
     olevel[f'B{i}'].value: olevel[f'A{i}'].value
