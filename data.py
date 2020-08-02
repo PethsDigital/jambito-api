@@ -23,9 +23,13 @@ def getHex(cell):
 
 
 def getSubjects(row):
-    schoolInfo = [universities[cell.value]
-                  for cell in row[15:] if cell.value is not None and
-                  cell.value != 'N/A']
+    schoolInfo = []
+    try:
+        schoolInfo = [universities[cell.value]
+                      for cell in row[15:] if cell.value is not None and
+                      (cell.value != 'N/A' and cell.value != 'n/a')]
+    except Exception:
+        print(row[14])
     row = row[:14]
     hexes = set([getHex(cell) for cell in row if cell.value is not None])
     comp, ops, others = [], [], []
@@ -42,12 +46,14 @@ def getSubjects(row):
             else:
                 others.append(subs)
     return {
-        'compulsory': comp,
-        'optional': {
-            f'subject {i+1}': ops[i]
-            for i in range(len(ops))
+        'subjects': {
+            'compulsory': comp,
+            'optional': {
+                f'subject {i+1}': ops[i]
+                for i in range(len(ops))
+            },
+            'others': others
         },
-        'others': others,
         'schools': schoolInfo
     }
 
