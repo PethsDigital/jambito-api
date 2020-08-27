@@ -36,7 +36,7 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 ## Endpoints
-#### Root
+### Root
 Visiting the '/' endpoint returns all the courses and their required subjects
 Output: 
 
@@ -58,7 +58,7 @@ Output:
 }
 ```
 
-#### Search by course/field of study
+### Search by course/field of study
 Visiting the '/course/{searchItem}' endpoint, where searchItem is a the name of a course or its substring, returns all the courses containing that search item.
 
 For example, the URL "https://jambito-api.herokuapp.com/course/education", where 'education' is the keyword, gives the output below:
@@ -83,7 +83,7 @@ For example, the URL "https://jambito-api.herokuapp.com/course/education", where
 }
 ```
 
-#### Search by a required subject
+### Search by a required subject
 Visiting the '/subject/{searchItem}' endpoint returns all the courses that require that particular subject which is parsed into the url
 
 For example, the URL "https://jambito-api.herokuapp.com/subject/math", where 'math' is the keyword, gives the output below:
