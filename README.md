@@ -35,9 +35,25 @@ $ pip install -r requirements.txt
 ```sh
 $ python app.py
 ```
-#### 5. Endpoints
+## Endpoints
+#### Root
+Visiting the '/' endpoint returns all the courses and their required subjects
 
-* Visiting the '/' endpoint returns all the courses and their required subjects
+```
+{
+  "results": {
+  "ACCOUNTING/ACCOUNTANCY ": {..}
+  "ACCOUNTING TECHNOLOGY ": {..},
+  "ADULT AND COMMUNITY EDUCATION": {..},
+  "ADULT AND NON-FORMAL EDUCATION": {..},
+  "ADULT EDUCATION ": {..},
+  "ADULT EDUCATION/POLITICAL SCIENCE AND PUBLIC ADMINISTRATION ": {..},
+  "ADULT EDUCATION/ECONOMICS AND STATISTICS": {..},
+  "ADULT EDUCATION/ENGLISH LITERATURE": {..},
+  "ADULT EDUCATION/GEOGRAPHY AND REGIONAL PLANNING": {..}
+  }
+}
+```
 * Visiting the '/course/{searchItem}' endpoint, where searchItem is a the name of a course or its substring, returns all the courses containing that search item
 * Visiting the '/subject/{searchItem}' endpoint returns all the courses that require that particular subject which is parsed into the url
 
