@@ -66,15 +66,3 @@ def getData():
     return {
         'results': data
     }
-
-
-# import requests
-# import json
-
-# recipes = {
-#   'results' : []
-# }
-
-# data = requests.get('http://127.0.0.1:5000/').json()
-
-# print(data)
