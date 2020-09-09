@@ -1,6 +1,5 @@
 from openpyxl import load_workbook
-# from openpyxl.styles import PatternFill, Color
-# from openpyxl.styles import NamedStyle
+
 
 excel_file = 'jambito.xlsx'
 workbook = load_workbook(excel_file, data_only=True)
@@ -13,7 +12,7 @@ universities = {
 
 
 codeMap = {
-    olevel[f'B{i}'].value: olevel[f'A{i}'].value
+    int(olevel[f'B{i}'].value): olevel[f'A{i}'].value
     for i in range(2, 28)
 }
 
@@ -36,10 +35,10 @@ def getSubjects(row):
     for hx in hexes:
         if hx == '00000000' or hx == 'FFFFFFFF':
             comp.extend(
-                [codeMap[cell.value] for cell in row if getHex(
+                [cell.value for cell in row if getHex(
                     cell) == hx and isinstance(cell.value, float)])
         else:
-            subs = [codeMap[cell.value] for cell in row if getHex(
+            subs = [cell.value for cell in row if getHex(
                 cell) == hx and isinstance(cell.value, float)]
             if len(subs) > 1:
                 ops.append(subs)
@@ -56,6 +55,10 @@ def getSubjects(row):
         },
         'schools': schoolInfo
     }
+
+
+def fetchSubjectCodes():
+    return codeMap
 
 
 def getData():
