@@ -66,13 +66,6 @@ class SeearchBySubject(Resource):
         return data
 
 
-class SeearchBySubjects(Resource):
-
-    def get(self, search):
-        data = searchBySubject(search)
-        return data
-
-
 class FetchSubjectCodes(Resource):
 
     def get(self):
@@ -82,8 +75,7 @@ class FetchSubjectCodes(Resource):
 
 api.add_resource(Index, '/')
 api.add_resource(SeearchByCourse, '/course/<string:search>')
-api.add_resource(SeearchBySubject, '/subject/<string:search>')
-api.add_resource(SeearchBySubjects, '/subjects/<string:search>')
+api.add_resource(SeearchBySubject, '/subjects/<string:search>')
 api.add_resource(FetchSubjectCodes, '/codes/subjects')
 
 if __name__ == '__main__':
