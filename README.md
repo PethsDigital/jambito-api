@@ -86,7 +86,7 @@ For example, the URL "https://jambito-api.herokuapp.com/course/education", where
 ### Search by a required subject
 Visiting the '/subject/{searchItem}' endpoint returns all the courses that require that particular subject(s) whose code is parsed into the url
 
-For example, the URL "https://jambito-api.herokuapp.com/subject/1+2", where 1 and 2 are the codes for two subjects, gives the output below:
+For example, the URL "https://jambito-api.herokuapp.com/subjects/1+2", where 1 and 2 are the codes for two subjects, gives the output below:
 
 ```
 {
