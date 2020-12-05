@@ -84,9 +84,9 @@ For example, the URL "https://jambito-api.herokuapp.com/course/education", where
 ```
 
 ### Search by a required subject
-Visiting the '/subject/{searchItem}' endpoint returns all the courses that require that particular subject which is parsed into the url
+Visiting the '/subject/{searchItem}' endpoint returns all the courses that require that particular subject(s) whose code is parsed into the url
 
-For example, the URL "https://jambito-api.herokuapp.com/subject/math", where 'math' is the keyword, gives the output below:
+For example, the URL "https://jambito-api.herokuapp.com/subjects/1+2", where 1 and 2 are the codes for two subjects, gives the output below:
 
 ```
 {
@@ -108,6 +108,29 @@ For example, the URL "https://jambito-api.herokuapp.com/subject/math", where 'ma
     ............,
     "WOOD PRODUCTION ENGINEERING": {..}
   }
+}
+```
+
+### Get all Subject codes
+Visiting the '/codes/subjects' endpoint returns all the subjects and their respective codes
+The endpoint gives the output below:
+
+```
+{
+"1": "Use of English",
+"2": "Mathematics",
+"3": "Biology",
+"4": "Chemistry",
+"5": "Commerce",
+"6": "Economics",
+"7": "Physics",
+..........
+..........
+"22": "Music",
+"23": "Yoruba",
+"24": "Fine Art",
+"25": "Book Keeping",
+"26": "Business Methods"
 }
 ```
 
