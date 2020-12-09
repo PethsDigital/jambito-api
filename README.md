@@ -11,7 +11,6 @@
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with python installed on your system(ie. Pycharm, VSCode etc)
 * Flask
-* [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
 ## Getting started
 
