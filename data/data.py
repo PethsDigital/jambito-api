@@ -2,7 +2,7 @@ import json
 import os
 import sys
 
-courses = open(os.path.join(sys.path[0], 'data/jambitoMain.json'),)
+courses = open('data/jambitoMain.json')
 subjects = open(os.path.join(sys.path[0], 'data/subjectCodes.json'),)
 
 data = json.load(courses)
