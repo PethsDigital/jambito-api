@@ -1,0 +1,8716 @@
+{
+    "result": [
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "5",
+                "9",
+                "8"
+            ],
+            "Course": "ACCOUNTING/ACCOUNTANCY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "ACCOUNTING TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "5",
+                "9",
+                "8"
+            ],
+            "Course": "ACTUARIAL SCIENCE "
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT AND COMMUNITY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT AND NON-FORMAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT EDUCATION "
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT EDUCATION/POLITICAL SCIENCE AND PUBLIC ADMINISTRATION "
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT EDUCATION/ECONOMICS AND STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT EDUCATION/ENGLISH LITERATURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "7",
+                "10",
+                "5",
+                "8"
+            ],
+            "Course": "ADULT EDUCATION/GEOGRAPHY AND REGIONAL PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "AERONAUTIC AND ASTRONAUTIC ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "19",
+                "6",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "17",
+                "23"
+            ],
+            "Course": "AFRICAN AND ASIAN STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "9",
+                "10",
+                "12"
+            ],
+            "Course": "AGRIC BUSINESS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "AGRIC COOPERATIVE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRIC EXTENSION AND RURAL DEVELOPMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRIC EXTENSION SERVICE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRIC-ECONOMICS AND EXTENSION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRIC-EXTENSION AND RURAL SOCIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "AGRICULTURAL AND ENVIRONMENTAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRICULTURAL ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "AGRICULTURAL AND BIORESOURCES ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "AGRICULTURAL AND BIOSYSTEMS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRICULTURAL ECONOMICS "
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRICULTURAL ECONOMICS AND FARM MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "AGRICULTURAL ENGINEERING "
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRICULTURAL EXTENSION AND COMMUNICATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRICULTURAL EXTENSION AND MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2",
+                "6",
+                "10"
+            ],
+            "Course": "AGRICULTURAL PRODUCTION AND MANAGEMENT SCIENCE AND EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2",
+                "6",
+                "10"
+            ],
+            "Course": "AGRICULTURAL SCIENCE AND EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2",
+                "6",
+                "10"
+            ],
+            "Course": "AGRICULTURAL TECHNOLOGY AND EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRICULTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "AGRONOMY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "7"
+            ],
+            "Course": "ANATOMY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL PHYSIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL AND ENVIRONMENTAL BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL BIOLOGY AND ENVIRONMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL BREEDING AND GENETICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL NUTRITION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL NUTRITION AND BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL PRODUCTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL PRODUCTION AND FISHERIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL PRODUCTION AND HEALTH"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL PRODUCTION AND HEALTH SERVICES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL SCIENCE AND FISHERIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL SCIENCE AND FISHERIES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL SCIENCE AND RANGE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "ANIMAL SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "20",
+                "17",
+                "10",
+                "6",
+                "21",
+                "11"
+            ],
+            "Course": "ANTHROPOLOGY "
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "20",
+                "17",
+                "10",
+                "6",
+                "21",
+                "11"
+            ],
+            "Course": "ANTHROPOLOGY BIOLOGICAL"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "6",
+                "3",
+                "14"
+            ],
+            "Course": "APPLIED MATHEMATICS WITH STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "7",
+                "10"
+            ],
+            "Course": "APPLIED GEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED BIOCHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED BIOLOGY AND GENETICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED BIOLOGY AND BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED BOTANY "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED CHEMISTRY "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "APPLIED ECOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED GEOPHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2"
+            ],
+            "Course": "APPLIED MICROBIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2"
+            ],
+            "Course": "APPLIED MICROBIOLOGY AND BREWING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "APPLIED ZOOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "AQUACULTURE AND FISHERIES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "15",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "21"
+            ],
+            "Course": "ARABIC AND ISLAMIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "15",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "21"
+            ],
+            "Course": "ARABIC LANGUAGE"
+        },
+        {
+            "Subject": [
+                "1",
+                "15",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "21"
+            ],
+            "Course": "ARABIC LANGUAGE AND LITERATURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "15",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "21"
+            ],
+            "Course": "ARABIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "12",
+                "20",
+                "9",
+                "10",
+                "6",
+                "8",
+                "5",
+                "21"
+            ],
+            "Course": "ARCHAEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "12",
+                "20",
+                "9",
+                "10",
+                "6",
+                "8",
+                "5",
+                "21"
+            ],
+            "Course": "ARCHAEOLOGY SINGLE HONOUR"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "10",
+                "16",
+                "3",
+                "6"
+            ],
+            "Course": "ARCHITECTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "14",
+                "10",
+                "4",
+                "3"
+            ],
+            "Course": "AUTO AND MECHANICAL TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "AUTOMOBILE ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "14",
+                "10",
+                "4",
+                "3"
+            ],
+            "Course": "AUTOMOBILE TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "AUTOMOTIVE ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10"
+            ],
+            "Course": "BANKING AND FINANCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "BIOCHEMISTRY "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "BIOCHEMISTRY  AND MOLECULAR BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "5",
+                "14",
+                "4",
+                "3",
+                "7"
+            ],
+            "Course": "BIOINFORMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "BIOLOGICAL SCIENCES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3",
+                "6"
+            ],
+            "Course": "BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "4"
+            ],
+            "Course": "BIOMEDICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "4"
+            ],
+            "Course": "BIOMEDICAL TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "BIOTECHNOLOGY "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "BOTANY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "BOTANY AND ECOLOGICAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "BUILDING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "BUILDING AND WOODWORK TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "BUILDING EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "BUILDING TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "BUILDING TECHNOLOGY EDUCATION "
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "BUSINESS ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "BUSINESS AND ENTREPRENEURSHIP STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "17",
+                "21",
+                "9",
+                "10",
+                "4",
+                "7"
+            ],
+            "Course": "BUSINESS EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "BUSINESS MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "BUSINESS MANAGEMENT/MANAGEMENT SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "CELL BIOLOGY & GENETICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "CHEMICAL SCIENCES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "CHEMICAL AND POLYMER ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "CHEMICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "CHEMICAL/PETROCHEMICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7",
+                "3"
+            ],
+            "Course": "CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7",
+                "3"
+            ],
+            "Course": "CHEMISTRY AND INDUSTRIAL CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "CHINESE STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "20",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "CHRISTIAN THEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "13",
+                "23"
+            ],
+            "Course": "CHRISTIAN RELIGIOUS STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "13",
+                "23"
+            ],
+            "Course": "CHRISTIAN STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "CIVIL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "CIVIL LAW"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "21",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "CLASSICAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "15",
+                "20",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "COMMON AND ISLAMIC LAW"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "15"
+            ],
+            "Course": "COMMON LAW"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMMUNICATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMMUNICATION AND WIRELESS TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "15"
+            ],
+            "Course": "COMMUNICATION AND LANGUAGE ARTS EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "15"
+            ],
+            "Course": "COMMUNICATION ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "15"
+            ],
+            "Course": "COMMUNICATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "COMMUNICATIONS TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "20",
+                "21",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "18"
+            ],
+            "Course": "COMPARATIVE RELIGIOUS STUDIES "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "COMPUTER INFORMATION AND COMMUNICATION SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE AND INFORMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE AND INFORMATION SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "6",
+                "3"
+            ],
+            "Course": "COMPUTER WITH STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER WITH ELECTRONICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "COMPUTER AND COMMUNICATION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "5",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "COMPUTER EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "COMPUTER ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "COMPUTER SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE AND INFORMATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE AND MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE WITH ECONOMICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE WITH ECONOMICS MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "COMPUTER SCIENCE WITH MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "23",
+                "15"
+            ],
+            "Course": "CONFLICT AND PEACE RESOLUTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "CONSERVATION BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "CONSTRUCTION TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "COOPERATIVE AND RURAL DEVELOPMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "COOPERATIVE ECONOMICS AND MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "COOPERATIVE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "COUNSELLOR EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "21",
+                "12",
+                "6",
+                "11",
+                "10",
+                "9",
+                "13",
+                "15"
+            ],
+            "Course": "CREATIVE AND VISUAL ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "12",
+                "11",
+                "13",
+                "20",
+                "19",
+                "15",
+                "21",
+                "2"
+            ],
+            "Course": "CREATIVE ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "CRIMINOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "CRIMINOLOGY AND PENOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "9",
+                "17",
+                "10",
+                "21",
+                "11",
+                "20",
+                "13"
+            ],
+            "Course": "CRIMINOLOGY AND SECURITY STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PRODUCTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP AND ENVIRONMENTAL PROTECTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PRODUCTION AND HORTICULTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PRODUCTION AND LANDSCAPE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PRODUCTION AND PROTECTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PRODUCTION AND SOIL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PRODUCTION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP PROTECTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SCIENCE AND BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SCIENCE AND HORTICULTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SCIENCE AND PRODUCTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SCIENCE AND TECHNOLOGY "
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SOIL AND ENVIRONMENTAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "CROP SOIL AND PEST MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "22"
+            ],
+            "Course": "CURRICULUM AND INSTRUCTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "22"
+            ],
+            "Course": "CURRICULUM STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "CYBER SECURITY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "CYBER SECURITY SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "DATA MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24"
+            ],
+            "Course": "DEMOGRAPHY AND SOCIAL STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24"
+            ],
+            "Course": "DEMOGRAPHY AND STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "DENTAL TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "DENTISTRY AND DENTAL SURGERY"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "24",
+                "19",
+                "23",
+                "22",
+                "13",
+                "11",
+                "17"
+            ],
+            "Course": "DRAMA/DRAMATIC/PERFORMING ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "2"
+            ],
+            "Course": "EARLY CHILDHOOD AND PRIMARY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "2"
+            ],
+            "Course": "EARLY CHILDHOOD EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "EARTH SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "ECOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "ECOLOGY AND ENVIRONMENTAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "ECONOMICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "7",
+                "9",
+                "17",
+                "21"
+            ],
+            "Course": "ECONOMICS /GEOGRAPHY/PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "ECONOMICS AND DEVELOPMENT STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "ECONOMICS AND STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "10",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "ECONOMICS WITH OPERATION RESEARCH "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "14",
+                "4",
+                "10",
+                "6",
+                "2",
+                "7"
+            ],
+            "Course": "ECOTOURISM & WILDLIFE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "10",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "3"
+            ],
+            "Course": "EDUCATION /MECHANICAL TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "EDUCATION ACCOUNTING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "EDUCATION AND ACCOUNTANCY"
+        },
+        {
+            "Subject": [
+                "1",
+                "15",
+                "12",
+                "6",
+                "10",
+                "8",
+                "5",
+                "9",
+                "24",
+                "17"
+            ],
+            "Course": "EDUCATION AND ARABIC"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "EDUCATION AND BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "9",
+                "17",
+                "21"
+            ],
+            "Course": "EDUCATION AND BUSINESS ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "EDUCATION AND CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "16",
+                "15",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "10"
+            ],
+            "Course": "EDUCATION AND CHRISTIAN RELIGIOUS STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10"
+            ],
+            "Course": "EDUCATION AND COMPUTER SCIENCE "
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "10",
+                "7",
+                "17",
+                "9",
+                "21"
+            ],
+            "Course": "EDUCATION AND ECONOMICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "13",
+                "23"
+            ],
+            "Course": "EDUCATION AND EDO LANGUAGE"
+        },
+        {
+            "Subject": [
+                "1",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21"
+            ],
+            "Course": "EDUCATION AND EFIK/IBIBIO"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "13",
+                "23"
+            ],
+            "Course": "EDUCATION AND ENGLISH AND LITERARY STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "11",
+                "13",
+                "10"
+            ],
+            "Course": "EDUCATION AND ENGLISH LANGUAGE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "11",
+                "13",
+                "10"
+            ],
+            "Course": "EDUCATION AND ENGLISH LANGUAGE AND LITERATURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "10"
+            ],
+            "Course": "EDUCATION AND FRENCH"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "13",
+                "6"
+            ],
+            "Course": "EDUCATION AND GEOGRAPHY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "10"
+            ],
+            "Course": "EDUCATION AND GOVERNMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "13",
+                "6",
+                "11",
+                "10",
+                "7",
+                "9",
+                "17",
+                "21",
+                "20"
+            ],
+            "Course": "EDUCATION AND HAUSA"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "12",
+                "20",
+                "21",
+                "11",
+                "7",
+                "10",
+                "6",
+                "23"
+            ],
+            "Course": "EDUCATION AND HISTORY"
+        },
+        {
+            "Subject": [
+                "1",
+                "19",
+                "21",
+                "16",
+                "15",
+                "12",
+                "11",
+                "20",
+                "8"
+            ],
+            "Course": "EDUCATION AND IGBO"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "3",
+                "14"
+            ],
+            "Course": "EDUCATION AND INTEGRATED SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "15",
+                "21",
+                "8",
+                "10",
+                "5",
+                "9",
+                "12",
+                "22"
+            ],
+            "Course": "EDUCATION AND ISLAMIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "23",
+                "21",
+                "12",
+                "17",
+                "6",
+                "20"
+            ],
+            "Course": "EDUCATION AND LANGUAGE ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "EDUCATION AND MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10",
+                "2",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "EDUCATION AND MECHANICAL AND AUTOMECHANIC TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "22",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10"
+            ],
+            "Course": "EDUCATION AND MUSIC"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3",
+                "10",
+                "14"
+            ],
+            "Course": "EDUCATION AND PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "17",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10"
+            ],
+            "Course": "EDUCATION AND POLITICAL SCIENCE "
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "17",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10"
+            ],
+            "Course": "EDUCATION AND RELIGIOUS STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "10",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "EDUCATION AND SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "8",
+                "5",
+                "6",
+                "10"
+            ],
+            "Course": "EDUCATION AND SOCIAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "6",
+                "10",
+                "7",
+                "9",
+                "17",
+                "20"
+            ],
+            "Course": "EDUCATION AND SOCIAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "EDUCATION AND SOCIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "23",
+                "17",
+                "21",
+                "11",
+                "12",
+                "20",
+                "15",
+                "10",
+                "7"
+            ],
+            "Course": "EDUCATION AND YORUBA"
+        },
+        {
+            "Subject": [
+                "1",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "EDUCATION ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "EDUCATION FINE AND APPLIED ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "EDUCATION FOUNDATIONS AND MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "EDUCATION LANGUAGE AND FRENCH "
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "3",
+                "4",
+                "10",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "EDUCATION PSCHYCHOLOGY AND CURRICULUM STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10",
+                "14"
+            ],
+            "Course": "EDUCATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "EDUCATION/FINE ART"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "12",
+                "20",
+                "21",
+                "11",
+                "7",
+                "10",
+                "6",
+                "23"
+            ],
+            "Course": "EDUCATION/HISTORY AND INTERNATIONAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10",
+                "14"
+            ],
+            "Course": "EDUCATIONAL FOUNDATIONS AND ADMINSTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "17",
+                "11",
+                "10",
+                "7",
+                "6",
+                "2"
+            ],
+            "Course": "EDUCATIONAL MANAGEMENT AND PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "17",
+                "11",
+                "10",
+                "7",
+                "6",
+                "2"
+            ],
+            "Course": "EDUCATIONAL ADMINISTRATION AND PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10",
+                "14"
+            ],
+            "Course": "EDUCATIONAL / PSYCHOLOGY GUIDANCE AND COUNSELLING"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "17",
+                "11",
+                "10",
+                "7",
+                "6",
+                "2"
+            ],
+            "Course": "EDUCATIONAL ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "17",
+                "11",
+                "10",
+                "7",
+                "6",
+                "2"
+            ],
+            "Course": "EDUCATIONAL ADMINISTRATION AND SUPERVISION"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10",
+                "14"
+            ],
+            "Course": "EDUCATIONAL FOUNDATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "6",
+                "10",
+                "9",
+                "2",
+                "7",
+                "3",
+                "4",
+                "10",
+                "14"
+            ],
+            "Course": "EDUCATIONAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "17",
+                "11",
+                "10",
+                "7",
+                "6",
+                "2"
+            ],
+            "Course": "EDUCATIONAL MANAGEMENT AND POLICY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4"
+            ],
+            "Course": "EDUCATIONAL TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4"
+            ],
+            "Course": "EDUCATIONAL TECHNOLOGY / INTRODUCTORY TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "EFIK-IBIBIO"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRICAL AND COMPUTER ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRICAL AND INFORMATION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRICAL/ELECTRONICS TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRICAL/ELECTRONICS EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRICAL/ELECTRONICS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "ELECTRONICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRONICS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "6",
+                "3"
+            ],
+            "Course": "ELECTRONICS AND COMPUTER TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "ELECTRONICS AND COMPUTER ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "10",
+                "2",
+                "7",
+                "14",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "ELEMENTARY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "ENERGY AND PETROLEUM STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "ENERGY STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "ENGINEERING PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "9",
+                "17"
+            ],
+            "Course": "ENGLISH AND INTERNATIONAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENGLISH AND LITERARY STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENGLISH LANGUAGE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENGLISH LANGUAGE AND COMMUNICATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENGLISH LANGUAGE AND LITERATURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENGLISH LITERATURE AND LANGUAGE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENGLISH STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENTREPRENEURIAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENTREPRENEURSHIP"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENTREPRENEURSHIP AND BUSINESS MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "ENTREPRENEURSHIP STUDIES AND INNOVATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "ENVIROMENTAL MANAGEMENT TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "10",
+                "6",
+                "7",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "10",
+                "6",
+                "7",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL SCIENCE RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL BIOLOGY AND FISHERIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL HEALTH SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL MANAGEMENT AND POLLUTION CONTROL"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "ENVIRONMENTAL MANAGEMENT AND TOXICOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14",
+                "8",
+                "5",
+                "6",
+                "9"
+            ],
+            "Course": "ENVIRONMENTAL PROTECTION AND RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "10",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14",
+                "8",
+                "5",
+                "6",
+                "9"
+            ],
+            "Course": "ENVIRONMENTAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "ENVIRONMENTAL SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "3",
+                "4",
+                "10",
+                "2",
+                "7",
+                "14",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "ESTATE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "EUROPEAN AND NIGERIAN LANGUAGES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "6",
+                "10"
+            ],
+            "Course": "EXERCISE AND SPORTS SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FAMILY NUTRITION AND CONSUMER SCIENCES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "FILM AND VIDEO STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "3",
+                "4",
+                "10",
+                "7",
+                "14",
+                "5",
+                "8",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "FINANCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7",
+                "24"
+            ],
+            "Course": "FINE AND INDUSTRIAL ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7",
+                "24"
+            ],
+            "Course": "FINE ART"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "FINE ARTS AND DESIGN"
+        },
+        {
+            "Subject": [
+                "1",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "FINE ARTS/FINE AND APPLIED ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7",
+                "24"
+            ],
+            "Course": "FINE AND APPLIED ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES AND AQUACULTURE TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES AND AQUACULTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES AND AQUATIC ENVIRONMENTAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES AND AQUATIC RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES AND WILDLIFE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FISHERIES TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOOD SCIENCE WITH BUSINESS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "7"
+            ],
+            "Course": "FOOD TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "7"
+            ],
+            "Course": "FOOD ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOOD SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "7"
+            ],
+            "Course": "FOOD SCIENCE AND ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOOD SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "7"
+            ],
+            "Course": "FORENSIC SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FORESTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FORESTRY/FOREST RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOREST AND ENVIRONMENTAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOREST AND ENVIRONMENTAL TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FORESTRY AND WOOD TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOREST AND WILDLIFE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOREST AND WILDLIFE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FOREST AND WILDLIFE TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "FORESTRY AND WILDLIFE AND FISHERY"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "FRENCH"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "FRENCH AND INTERNATIONAL RELATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "FRENCH AND INTERNATIONAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "FRENCH WITH GERMAN/RUSSIAN"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "FULFULDE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "GAS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "GENETIC BIOTECH"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "2",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "GEOGRAPHY"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "2",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "GEOGRAPHY AND METEROLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "11",
+                "8",
+                "5",
+                "6",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GEOGRAPHY AND ENVIRONMENTAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOGRAPHY AND GEOSCIENCES"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GEOGRAPHY AND PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GEOGRAPHY AND PLANNING SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOGRAPHY AND REGIONAL PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGICAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGY AND PETROLEUM STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGY AND MINERAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGY AND GEOPHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGY AND MINERAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOLOGY AND MINING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOPHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3",
+                "2"
+            ],
+            "Course": "GEOSCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GERMAN"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "7",
+                "24"
+            ],
+            "Course": "GLASS TECHNOLGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GOVERNMENT AND PUBLIC ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "7",
+                "4",
+                "14",
+                "11",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "GUIDANCE COUNSELLING"
+        },
+        {
+            "Subject": [
+                "1",
+                "13",
+                "21",
+                "6",
+                "9",
+                "17",
+                "15"
+            ],
+            "Course": "HAUSA"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "14",
+                "7",
+                "4"
+            ],
+            "Course": "HEALTH AND SAFETY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "14",
+                "7",
+                "4"
+            ],
+            "Course": "HEALTH EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "16",
+                "12",
+                "20",
+                "11",
+                "13",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "HISTORY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "HISTORY AND DIPLOMACY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "10",
+                "8",
+                "6",
+                "5",
+                "16",
+                "15",
+                "12",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "HISTORY AND INTERNATIONAL RELATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "10",
+                "8",
+                "6",
+                "5",
+                "16",
+                "15",
+                "12",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "HISTORY AND ARCHAEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "10",
+                "8",
+                "6",
+                "5",
+                "16",
+                "15",
+                "12",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "HISTORY AND INTERNATIONAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "10",
+                "8",
+                "6",
+                "5",
+                "16",
+                "15",
+                "12",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "HISTORY AND DIPLOMATIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "10",
+                "8",
+                "6",
+                "5",
+                "16",
+                "15",
+                "12",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "HISTORY AND STRATEGIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "9",
+                "10",
+                "8",
+                "6",
+                "5",
+                "16",
+                "15",
+                "12",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "HISTORY AND SOCIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME ECONOMIC AND FOOD MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME AND HOTEL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME ECONOMICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14"
+            ],
+            "Course": "HOME ECONOMIC AND EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14"
+            ],
+            "Course": "HOME ECONOMICS AND HOTEL MANAGEMENT AND EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME ECONOMIC AND MANAGEMENT/ECONOMICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME SCIENCE AND MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2"
+            ],
+            "Course": "HOME SCIENCE NUTRITION AND DIETICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "7",
+                "2",
+                "10",
+                "6"
+            ],
+            "Course": "HORTICULTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "9"
+            ],
+            "Course": "HOSPITALITY AND TOURISM"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "3",
+                "14",
+                "7",
+                "4",
+                "5",
+                "8",
+                "10"
+            ],
+            "Course": "HOSPITALITY AND TOURISM MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "HOTEL MANAGEMENT AND TOURISM"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "HOTEL  AND TOURISM MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "7"
+            ],
+            "Course": "HUMAN ANATOMY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "7"
+            ],
+            "Course": "HUMAN BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "6",
+                "16",
+                "11",
+                "10",
+                "7",
+                "14",
+                "5"
+            ],
+            "Course": "HUMAN KINETICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "6",
+                "16",
+                "11",
+                "10",
+                "7",
+                "14",
+                "5"
+            ],
+            "Course": "HUMAN KINETICS AND HEALTH EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "HUMAN NUTRITION AND DIETICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "HUMAN PHYSICAL AND HEALTH EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "HUMAN PHYSIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "10",
+                "4",
+                "7",
+                "14",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "HUMAN RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "19",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "IGBO"
+        },
+        {
+            "Subject": [
+                "1",
+                "19",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "IGBO / LINGUISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "6",
+                "4",
+                "14"
+            ],
+            "Course": "INDUSTRIAL AND ENVIRONMENTAL CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL AND LABOUR RELATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL EDUCATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "6",
+                "14"
+            ],
+            "Course": "INDUSTRIAL MATHEMATICS/APPLIED STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "6",
+                "14"
+            ],
+            "Course": "INDUSTRIAL RELATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "INDUSTRIAL AND PRODUCTION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "14"
+            ],
+            "Course": "INDUSTRIAL CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2",
+                "24"
+            ],
+            "Course": "INDUSTRIAL DESIGN"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "INDUSTRIAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "6",
+                "14"
+            ],
+            "Course": "INDUSTRIAL MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL MICROBIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL PHYSICS WITH APPLIED GEOPHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL PHYSICS WITH ELECTRONICS AND IT APPLICATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2"
+            ],
+            "Course": "INDUSTRIAL PHYSICS WITH RENEWABLE ENERGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "INDUSTRIAL PRODUCTION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "INDUSTRIAL RELATIONS AND HUMAN RESOURCES MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "6",
+                "14",
+                "8",
+                "10",
+                "9"
+            ],
+            "Course": "INDUSTRIAL RELATIONS AND PERSONNEL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "14"
+            ],
+            "Course": "INDUSTRIAL TECHNICAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "7",
+                "3",
+                "2",
+                "6",
+                "10"
+            ],
+            "Course": "INFORMATION SYSTEMS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "INFORMATIION AND COMMUNICATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "INFORMATION AND COMMUNICATION TECHNOLOGY ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "INFORMATION AND COMMUNICATION SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "INFORMATION RESOURCE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "INFORMATION SCIENCE AND MEDIA STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "8",
+                "6",
+                "10",
+                "5",
+                "9"
+            ],
+            "Course": "INSURANCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "INSURANCE AND ACTURIAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "INSURANCE AND RISK MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "8",
+                "6",
+                "10",
+                "9",
+                "2"
+            ],
+            "Course": "INTELLIGENCE AND SECURITY STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "17",
+                "9",
+                "21",
+                "11"
+            ],
+            "Course": "INTERNATIONAL RELATIONS AND STRATEGIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "21",
+                "10",
+                "9",
+                "17"
+            ],
+            "Course": "INTERNATIONAL STUDIES AND DIPLOMACY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "21",
+                "10",
+                "9",
+                "17"
+            ],
+            "Course": "INTERNATIONAL COMPARATIVE POLITICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "17",
+                "9",
+                "10",
+                "11",
+                "21"
+            ],
+            "Course": "INTERNATIONAL RELATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "10",
+                "9",
+                "17"
+            ],
+            "Course": "INTERNATIONAL RELATIONSHIP AND STRATEGIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "17",
+                "9",
+                "10",
+                "11",
+                "21"
+            ],
+            "Course": "INTERNATIONAL RELATIONS AND DIPLOMACY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "17",
+                "9",
+                "10",
+                "21"
+            ],
+            "Course": "INTERNATIONAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "16",
+                "15",
+                "13",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "ISLAMIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "16",
+                "15",
+                "13",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "ISLAMIC/SHARIA LAW"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "16",
+                "15",
+                "13",
+                "19",
+                "21",
+                "23",
+                "9",
+                "10",
+                "5",
+                "17"
+            ],
+            "Course": "KANURI"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "LABORATORY TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4",
+                "10",
+                "3",
+                "6",
+                "16"
+            ],
+            "Course": "LAND SURVEYING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4",
+                "10",
+                "3",
+                "6",
+                "16"
+            ],
+            "Course": "LAND SURVEYING AND GEOINFORMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LANGUAGE AND LITERATURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LANGUAGE AND LINGUISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LAW"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "4"
+            ],
+            "Course": "LIBRARY AND INFORMATION SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "4",
+                "3"
+            ],
+            "Course": "LIBRARY AND INFORMATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "4",
+                "3"
+            ],
+            "Course": "LIBRARY AND INFORMATION MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "2",
+                "4",
+                "3"
+            ],
+            "Course": "LIBRARY SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS AND KANURI"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS AND NIGERIAN LANGUAGES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS/EDO"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS/YORUBA"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS AND AFRICAN LANGUAGES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS AND COMMUNICATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS AND URHOBO"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS FULFULDE"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LINGUISTICS IGBO AND OTHER AFRICAN LANGUAGES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "LITERATURE IN ENGLISH"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "LIVESTOCKS PRODUCTION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "17",
+                "6"
+            ],
+            "Course": "LOCAL GOVERNMENT AND DEVELOPMENT STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "17",
+                "6"
+            ],
+            "Course": "LOCAL GOVERNMENT STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "8"
+            ],
+            "Course": "MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "MANAGEMENT INFORMATION SYSTEMS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "8",
+                "5",
+                "14"
+            ],
+            "Course": "MANAGEMENT AND ENTREPRENEURSHIP"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "8",
+                "5",
+                "14"
+            ],
+            "Course": "MANAGEMENT STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "MANAGEMENT TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "MARINE BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "MARINE BIOLOGY AND FISHERIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "MARINE ECONOMICS AND FINANCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "MARINE ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "3",
+                "10"
+            ],
+            "Course": "MARINE GEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "MARINE SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "8",
+                "5",
+                "14"
+            ],
+            "Course": "MARKETING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10",
+                "9",
+                "8",
+                "5",
+                "14"
+            ],
+            "Course": "MARKETING AND ADVERTISING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "21",
+                "17",
+                "10",
+                "4",
+                "7"
+            ],
+            "Course": "MARKETING EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "6",
+                "5",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "MASS COMMUNICATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "6",
+                "5",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "MASS COMMUNICATION AND MEDIA TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "MATHEMATICS SCIENCES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "6",
+                "4",
+                "10"
+            ],
+            "Course": "MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "MATHEMATICS AND ECONOMICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "6",
+                "4",
+                "10"
+            ],
+            "Course": "MATHEMATICS WITH COMPUTER SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MATHEMATICS WITH STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MATHEMATICS/COMPUTER SCIENCE EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MATHEMATICS/STATISTICS EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MATHEMATICS AND EDUCATION TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MATHEMATICS AND STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3",
+                "6"
+            ],
+            "Course": "MATHEMATICS/COMPUTER SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3",
+                "6"
+            ],
+            "Course": "MATHEMATICS/STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "MECHANICAL AND METURLIGICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "MECHNICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "MECHANICAL METALWORK TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "MECHANICAL/PRODUCTION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "MECHATRONICS AND SYSTEM ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "MECHATRONICS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "MEDIA AND COMMUNICATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MEDICAL BIOCHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MEDICAL LABORATORY SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MEDICAL REHABILITATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "MEDICINE AND SURGERY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3",
+                "2",
+                "10",
+                "6",
+                "5"
+            ],
+            "Course": "METAL WORK TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "METALLURGICAL AND MATERIAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "METALLURGICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3",
+                "2",
+                "10",
+                "6",
+                "5"
+            ],
+            "Course": "METALWORK/ WOODWORK TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "METEOROLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "METEOROLOGY AND CLIMATE CHANGE"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "MICROBIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "MICROBIOLOGY AND INDUSTRIAL BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2",
+                "3"
+            ],
+            "Course": "MICROBIOLOGY AND BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "MILITARY HISTORY"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "MINING ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "MODERN AND EUROPEAN LANGUAGES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "MOLECULAR BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "MUSIC"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "NATURAL AND ENVIRONMENTAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "NAUTICAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "NIGERIAN LANGUAGES"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "19",
+                "22",
+                "23",
+                "24",
+                "2",
+                "4",
+                "3",
+                "7",
+                "14"
+            ],
+            "Course": "NURSERY AND PRIMARY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "NURSING/NURSING SCIEENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "NUTRITION AND CONSUMERS SERVICES"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "NUTRITION AND DIETICS "
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "OCEANOGRAPHY"
+        },
+        {
+            "Subject": [
+                "1",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "19",
+                "22",
+                "23",
+                "24",
+                "2",
+                "4",
+                "3",
+                "7",
+                "14"
+            ],
+            "Course": "OFFICE AND INFORMATION MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "7",
+                "2"
+            ],
+            "Course": "OPERATIONS RESEARCH"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "OPTOMETRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PARASITOLOGY AND ENTOMOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "PASTURE AND RANGE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "PEACE AND CONFLICT STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "9",
+                "17",
+                "10",
+                "21",
+                "11",
+                "12",
+                "20",
+                "16",
+                "15",
+                "12"
+            ],
+            "Course": "PEACE AND DEVELOPMENT STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "9",
+                "17",
+                "10",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "PEACE STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "PEACE STUDIES AND CONFLICT RESOLUTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "9",
+                "17",
+                "10",
+                "21",
+                "11",
+                "12",
+                "20"
+            ],
+            "Course": "PERFORMING ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "5",
+                "9",
+                "10",
+                "21"
+            ],
+            "Course": "PERSONNEL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "PETROCHEMICAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "PETROLEUM AND GAS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7",
+                "3"
+            ],
+            "Course": "PETROLEUM CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "PETROLEUM ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "PHARMACOLOGY "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "PHARMACOLOGY AND THEURAPEUTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "PHARMACY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PHILOSOPHY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PHILOSOPHY AND RELIGIOUS STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICAL AND HEALTH EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICAL EDUCATION AND RECREATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICAL SCIENCES"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS AND APPLIED PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS AND COMPUTER ELECTRONIC"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS AND ENERGY STUDIES "
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS ELECTRONICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS WITH SOLAR ENERGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS WITH COMPUTATIONAL MODELING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS WITH ELECTRONICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS/ASTROLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSICS/INDUSTRIAL PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "PHYSIOTHERAPY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT BIOLOGY AND BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT BREEDING AND SEED SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT PHYSIOLOGY AND CROP PRODUCTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT SCIENCE AND FORESTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT SCIENCE AND MICROBIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2",
+                "14"
+            ],
+            "Course": "PLANT SCIENCE AND BIOTECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLICY AND STRATEGIC STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "POLITICAL SCIENCE AND INTERNATIONAL RELATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL SCIENCE AND INTERNATIONAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL SCIENCE/INTERNATIONAL LAW AND DIPLOMACY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL AND CONFLICT RESOLUTION"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL SCIENCE AND DEFENSE STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL SCIENCE AND DIPLOMACY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "10",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "POLITICAL SCIENCE AND PUBLIC ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "POLYMER AND TEXTILE ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "POLYMER ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "5",
+                "9",
+                "14",
+                "2",
+                "3",
+                "17",
+                "16",
+                "15",
+                "12",
+                "20",
+                "22"
+            ],
+            "Course": "POPULATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "5",
+                "8",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "17",
+                "13",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "PORTUGESE"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "5",
+                "8",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "17",
+                "13",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "PORTUGESE/ENGLISH"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PRE-PRIMARY AND PRIMARY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PRIMARY AND ELEMENTARY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PRIMARY EDUCATION STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "PRODUCTION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "Course": "PROSTHESIS AND ORTHOPAEDIC TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PSYCHOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23",
+                "24",
+                "8",
+                "5",
+                "6",
+                "10",
+                "3",
+                "4",
+                "7",
+                "14"
+            ],
+            "Course": "PSYCHOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "PUBLIC ADMINISTRATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "2",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "PUBLIC ADMINISTRATION AND LOCAL GOVERNMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "PUBLIC AND COMMUNITY HEALTH "
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "5",
+                "8",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "17",
+                "13",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "PUBLIC AND PRIVATE INTERNATIONAL LAW"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "PUBLIC HEALTH"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "PUBLIC HEALTH TECHNOLOGY "
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "PUBLIC HEALTH SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "5",
+                "8",
+                "6",
+                "10",
+                "9",
+                "16",
+                "15",
+                "12",
+                "20",
+                "17",
+                "13",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "PUBLIC RELATIONS AND ADVERTISING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "14",
+                "4",
+                "10"
+            ],
+            "Course": "PURE AND APPLIED MATHEMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "PURE AND APPLIED BIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "PURE AND APPLIED CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "PURE AND APPLIED PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7",
+                "14"
+            ],
+            "Course": "PURE AND INDUSTRIAL CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "PURE AND INDUSTRIAL PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "PURE CHEMISTRY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "2",
+                "7"
+            ],
+            "Course": "PURE PHYSICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4",
+                "10",
+                "16",
+                "3",
+                "6"
+            ],
+            "Course": "QUANTITY SURVEYING"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7"
+            ],
+            "Course": "RADIOGRAPHY"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "12",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "RELIGIOUS AND CULTURAL STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "12",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "RELIGIOUS AND HUMAN RELATIONS"
+        },
+        {
+            "Subject": [
+                "1",
+                "20",
+                "12",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "23"
+            ],
+            "Course": "RELIGIOUS STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4",
+                "10",
+                "16",
+                "3",
+                "6"
+            ],
+            "Course": "REMOTE SENSING AND GEOSCIENCE INFORMATION SYSYTEMS"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "RUSSIAN"
+        },
+        {
+            "Subject": [
+                "1",
+                "11",
+                "16",
+                "15",
+                "12",
+                "20",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "RUSSIAN WITH FRENCH/GERMAN"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "2",
+                "7",
+                "4",
+                "14"
+            ],
+            "Course": "SCIENCE EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "Course": "SCIENCE LABORATORY TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "5",
+                "8",
+                "9"
+            ],
+            "Course": "SECRETARIAL ADMINISTRATION "
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "5",
+                "8",
+                "9"
+            ],
+            "Course": "SECRETARIAL ADMINISTRATION AND EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "5",
+                "8",
+                "9"
+            ],
+            "Course": "SECRETARIAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "SHIPPING AND MARITIME TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "6",
+                "17",
+                "8",
+                "5"
+            ],
+            "Course": "SOCIAL JUSTICE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "10"
+            ],
+            "Course": "SOCIAL WORKS"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "SOCIOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "9",
+                "17",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9",
+                "16",
+                "11",
+                "13",
+                "17",
+                "21",
+                "22",
+                "23"
+            ],
+            "Course": "SOCIOLOGY AND ANTHROPOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "SOFTWARE ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "SOIL AND ENVIRONMENTAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "SOIL SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "SOIL SCIENCE AND LAND AGROCLIMATOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "SOIL SCIENCE AND LAND MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "SOIL SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "3",
+                "14",
+                "2",
+                "7"
+            ],
+            "Course": "SOIL SCIENCE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "24",
+                "22",
+                "23"
+            ],
+            "Course": "SPECIAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "6",
+                "10"
+            ],
+            "Course": "SPORT SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "3",
+                "6",
+                "10"
+            ],
+            "Course": "SPORT SCIENCE AND HEALTH EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "STATISTICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "STATISTICS EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "STATISTICS WITH DEMOGRAPHY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "STATISTICS/COMPUTER SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "STRUCTURAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4",
+                "10",
+                "16",
+                "3",
+                "6"
+            ],
+            "Course": "SURVEYING AND GEOINFORMATICS"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "SYSTEMS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "8",
+                "5",
+                "6",
+                "10",
+                "9"
+            ],
+            "Course": "TAXATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "17",
+                "11",
+                "10",
+                "7",
+                "6",
+                "2"
+            ],
+            "Course": "TEACHER EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "TECHNICAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "5",
+                "6",
+                "9",
+                "25",
+                "8",
+                "26",
+                "3"
+            ],
+            "Course": "TECHNOLOGICAL MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "2",
+                "4"
+            ],
+            "Course": "TECHNOLOGY AND VOCATIONAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4"
+            ],
+            "Course": "TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "3",
+                "4",
+                "14",
+                "6",
+                "10"
+            ],
+            "Course": "TELECOMMUNICATION MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "TELECOMMUNICATION SCIENCE"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "9"
+            ],
+            "Course": "TELECOMMUNICATION AND WIRELESS TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "Course": "TELECOMMUNICATION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "TEXTILE SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "THEATRE AND FILM STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "THEATRE AND MEDIA ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "THEATRE AND PERFORMING ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "21",
+                "16",
+                "11",
+                "13",
+                "17",
+                "19",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "THEATRE ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "12",
+                "20",
+                "8",
+                "5",
+                "9",
+                "12",
+                "24",
+                "11",
+                "23"
+            ],
+            "Course": "THEOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TOURISM AND EVENT MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "6",
+                "10",
+                "5",
+                "9",
+                "17"
+            ],
+            "Subject 2": "10",
+            "Course": "TOURISM STUDIES"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TRANSPORTATION AND PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TRANSPORTATION AND TOURISM"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TRANSPORT AND LOGISTICS MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TRANSPORT MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TRANSPORT MANAGEMENT TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "8",
+                "5",
+                "10",
+                "9"
+            ],
+            "Course": "TRANSPORT PLANNING AND MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "10",
+                "6",
+                "9",
+                "2",
+                "4",
+                "3",
+                "7",
+                "14",
+                "5"
+            ],
+            "Course": "TRANSPORT PLANNING AND MANAGEMENT AND EDUCATION TPM"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "10",
+                "6",
+                "7",
+                "4"
+            ],
+            "Course": "URBAN AND REGIONAL PLANNING"
+        },
+        {
+            "Subject": [
+                "1",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "VETERINARY MEDICINE"
+        },
+        {
+            "Subject": [
+                "1",
+                "23",
+                "16",
+                "15",
+                "12",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "VISUAL AND APPLIED ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "4",
+                "2",
+                "24",
+                "7"
+            ],
+            "Course": "VISUAL ARTS AND TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "21",
+                "17",
+                "9",
+                "10",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "VOCATIONAL AND TECHNICAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "21",
+                "17",
+                "9",
+                "10",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "VOCATIONAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "6",
+                "21",
+                "17",
+                "9",
+                "10",
+                "7",
+                "4",
+                "3"
+            ],
+            "Course": "VOCATIONAL INDUSTRIAL EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "WATER RESOURCES AND ENVIRONMENTAL ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "14",
+                "4",
+                "3"
+            ],
+            "Course": "WATER RESOURCES AQUACULTURE AND FISHERIES TECHNOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "WATER RESOURCES MANAGEMENT AND AGROMETEOROLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "14",
+                "4",
+                "3"
+            ],
+            "Course": "WILDLIFE MANAGEMENT"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "WOOD PRODUCTION ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "4"
+            ],
+            "Course": "WOOD PRODUCTS ENGINEERING"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "14",
+                "4"
+            ],
+            "Course": "WOODWORK TECHNOLOGY EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "2",
+                "7",
+                "14",
+                "4"
+            ],
+            "Course": "WOODWORK/EDUCATION"
+        },
+        {
+            "Subject": [
+                "1",
+                "23",
+                "16",
+                "15",
+                "12",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "YORUBA"
+        },
+        {
+            "Subject": [
+                "1",
+                "23",
+                "16",
+                "15",
+                "12",
+                "12",
+                "20",
+                "11",
+                "13",
+                "17",
+                "19",
+                "21",
+                "22",
+                "23",
+                "24"
+            ],
+            "Course": "YORUBA AND COMMUNICATION ARTS"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "ZOOLOGY"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "ZOOLOGY AND AQUACULTURE"
+        },
+        {
+            "Subject": [
+                "1",
+                "3",
+                "7",
+                "4",
+                "2"
+            ],
+            "Course": "ZOOLOGY AND ENVIRONMENTAL BIOLOGY"
+        }
+    ]
+}
