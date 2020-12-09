@@ -90,8 +90,8 @@ For example, the URL "https://jambito-api.herokuapp.com/subjects/1+2", where 1 a
 ```
 {
   "results" : {
-    "ACCOUNTING/ACCOUNTANCY ": {},
-    "ACCOUNTING TECHNOLOGY ": {},
+    "ACCOUNTING/ACCOUNTANCY ": {..},
+    "ACCOUNTING TECHNOLOGY ": {..},
     "ACTUARIAL SCIENCE ": {..},
     "AERONAUTIC AND ASTRONAUTIC ENGINEERING": {..},
     "AGRIC BUSINESS": {..},
