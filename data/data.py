@@ -1,7 +1,9 @@
 import json
+import os
+import sys
 
-courses = open('data\\jambitoMain.json',)
-subjects = open('data\\subjectCodes.json',)
+courses = open(os.path.join(sys.path[0], 'data\\jambitoMain.json'),)
+subjects = open(os.path.join(sys.path[0], 'data\\subjectCodes.json'),)
 
 data = json.load(courses)
 codeMap = json.load(subjects)
@@ -12,10 +14,8 @@ def fetchSubjectCodes():
 
 
 def getData():
-    print('right here boss')
+    # print('right here boss')
 
-    # for row in range(2, 663):
-    #     data[jamb[f'O{row}'].value] = getSubjects(jamb[row])
     return {
         'results': data
     }
