@@ -1,9 +1,9 @@
 import json
-import os
-import sys
+# import os
+# import sys
 
 courses = open('data/jambitoMain.json')
-subjects = open('data/subjectCodes.json'),)
+subjects = open('data/subjectCodes.json')
 
 data = json.load(courses)
 codeMap = json.load(subjects)
