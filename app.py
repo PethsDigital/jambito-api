@@ -1,4 +1,4 @@
-from data.data import getData, fetchSubjectCodes
+from data.data import getData, fetchSubjectCodes, fetchSchools
 from flask import Flask
 from flask_restful import Resource, Api
 from flask_cors import CORS
@@ -73,10 +73,18 @@ class FetchSubjectCodes(Resource):
         return codes
 
 
+class FetchSchools(Resource):
+
+    def get(self):
+        schools = fetchSchools()
+        return schools
+
+
 api.add_resource(Index, '/')
 api.add_resource(SeearchByCourse, '/course/<string:search>')
 api.add_resource(SeearchBySubject, '/subjects/<string:search>')
 api.add_resource(FetchSubjectCodes, '/codes/subjects')
+api.add_resource(FetchSchools, '/schools')
 
 if __name__ == '__main__':
     app.run()
