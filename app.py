@@ -21,16 +21,15 @@ def searchByCourse(search):
     data, search = getData(), search.upper()
     realData = data['results']
     # print(str(data), realData)
-    courses = realData.keys()
-    data = {
+    courses = realData
+    # print(courses)
+    return {
         'results': {
             course: realData[course]
             for course in courses
             if search in course
         }
     }
-    print(type(str(data)))
-    return data
 
 
 def searchBySubject(search):

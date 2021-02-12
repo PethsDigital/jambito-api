@@ -21,8 +21,4 @@ def fetchSchools():
 
 
 def getData():
-    # print('right here boss')
-
-    return {
-        'results': data
-    }
+    return data
