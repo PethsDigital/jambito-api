@@ -2,6 +2,7 @@ from data.data import getData, fetchSubjectCodes, fetchSchools
 from flask import Flask
 from flask_restful import Resource, Api
 from flask_cors import CORS
+import re
 
 app = Flask(__name__)
 CORS(app)
@@ -10,9 +11,10 @@ data = getData()
 
 
 def containsSubjects(search, string):
+    codes = fetchSubjectCodes()
     subjects = search.split('+')
     for i in subjects:
-        if i.lower() not in string.lower():
+        if not re.search(codes[i].lower(), string.lower()):
             return False
     return True
 
@@ -20,9 +22,7 @@ def containsSubjects(search, string):
 def searchByCourse(search):
     data, search = getData(), search.upper()
     realData = data['results']
-    # print(str(data), realData)
     courses = realData
-    # print(courses)
     return {
         'results': {
             course: realData[course]
@@ -33,6 +33,7 @@ def searchByCourse(search):
 
 
 def searchBySubject(search):
+    print(search)
     data = getData()
     realData = data['results']
     courses = realData.keys()
