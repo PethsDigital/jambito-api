@@ -23,7 +23,7 @@ openpyxl==3.0.3
 pathspec==0.8.0
 pycodestyle==2.6.0
 pyflakes==2.2.0
-pylint==2.4.4
+pylint==4.0.9
 pytz==2020.1
 six==1.14.0
 toml==0.10.0
